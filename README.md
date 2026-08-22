@@ -70,6 +70,3 @@ This project performs **sentiment analysis on Twitter data** using machine learn
 * Implement deep learning models (LSTM, BERT)
 * Real-time tweet analysis using Twitter API
 * Deploy as a web app (Flask/Streamlit)
-
-
-If you tell me which **model you actually used (like Random Forest since you mentioned it earlier)**, I can make this README even more impressive and recruiter-ready.
